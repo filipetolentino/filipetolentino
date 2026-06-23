@@ -12,7 +12,7 @@
 │                                                                     │                            .%@#:                 
 │  $ stack.conf                                                       │                            .=%@*.                
 │                                                                     │                           :=- =@*:               
-│  [languages]           Java · SQL · JS                              │                          :=:   -%%:              
+│  [languages]           Java · SQL ·                                 │                          :=:   -%%:              
 │                                                                     │                         ==.     :%@:             
 │  $ hobbies.txt                                                      │                       .==         #@+            
 │                                                                     │                      -=-           *@*                            
